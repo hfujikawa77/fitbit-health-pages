@@ -19,6 +19,7 @@ through the Google Health API. It is not distributed to other users.
 ## 関連
 
 - [プライバシーポリシー](./PRIVACY.md)
+- [利用規約](./TERMS.md)
 
 ## 連絡先
 
